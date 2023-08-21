@@ -1,1 +1,3 @@
 CCC
+
+CCC is an abbriviation for Cash Conversion Cycle
